@@ -108,4 +108,3 @@ function save() {
     count = 0
     countEl.textContent = count
 }
-SD
