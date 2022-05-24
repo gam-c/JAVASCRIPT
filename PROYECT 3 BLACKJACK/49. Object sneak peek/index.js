@@ -64,3 +64,4 @@ function newCard() {
         renderGame()        
     }
 }
+
