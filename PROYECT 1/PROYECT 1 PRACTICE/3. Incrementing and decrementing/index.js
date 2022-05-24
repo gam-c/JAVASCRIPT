@@ -19,4 +19,5 @@ remove1Point()
 
 
 // Call the functions to that the line below logs out 10
+
 console.log(myPoints)

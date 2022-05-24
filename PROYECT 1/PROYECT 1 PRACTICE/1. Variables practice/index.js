@@ -10,3 +10,4 @@ let fullName = firstName + " " + lastName
 // Log fullName to the console
 
 console.log(fullName)
+
