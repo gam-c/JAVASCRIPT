@@ -5,5 +5,4 @@
 
 let myself = [
     "my name is Gustavo", 36, true
-
 ]
