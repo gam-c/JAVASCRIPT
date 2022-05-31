@@ -8,6 +8,10 @@
 // "The 2 best fruits are Apples, Bananas"
 
 // Use both a for loop and a template string to solve the challenge
+
+let desc = "largest countries"
+let arr = ["China", "India", "USA"]
+
 function generateSentence(desc, arr) {
-    
+    return `The 3${desc}are ${arr}`
 }
