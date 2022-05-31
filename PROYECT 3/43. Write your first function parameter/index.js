@@ -1,8 +1,8 @@
 const welcomeEl = document.getElementById("welcome-el")
 
 // Give the function a parameter, greeting, that replaces "Welcome back"
-function greetUser() {
-    welcomeEl.textContent = "Welcome back, Per Harald Borgen 👋"    
+function greetUser(greeting) {
+    welcomeEl.textContent = greeting + ", Gustavo Meza 👋"    
 }
 
-greetUser()
+greetUser("Hey!! welcome back!")

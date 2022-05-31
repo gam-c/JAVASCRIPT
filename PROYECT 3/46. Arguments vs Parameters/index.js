@@ -1,7 +1,7 @@
-// What are greeting and name?
-// What are "Howdy" and "James"?
-// What are num1 and num2?
-// What are 3 and 4?
+// What are greeting and name? parame
+// What are "Howdy" and "James"? argume
+// What are num1 and num2? parame
+// What are 3 and 4? argume
 
 
 //.                parameters
